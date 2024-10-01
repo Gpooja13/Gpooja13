@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Gpooja13/Gpooja13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi there! I'm Pooja Gupta 👋
+## Hi there! I'm Pooja Gupta 👋
 
 I’m a highly motivated and passionate **Full Stack Developer** currently pursuing my **Master of Computer Applications (MCA)** from **Manipal University Jaipur**. I have a strong foundation in **software development**, **database management**, and **IT project management**, gained through academic pursuits and hands-on experience in the industry.
 
