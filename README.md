@@ -33,6 +33,4 @@ I’m a highly motivated and passionate **Full Stack Developer** currently pursu
 Feel free to connect or explore my work here on GitHub!
 
 ## 📫 Contact Me:
-- **Email:** [pooja13gupta09@gmail.com](mailto:pooja13gupta09@gmail.com)
-- [GitHub](#)
 - [LinkedIn](#)
