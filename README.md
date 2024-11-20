@@ -26,7 +26,6 @@ I’m a highly motivated and passionate **Full Stack Developer** currently pursu
 
 ## ✨ What I Bring:
 - Problem-solving skills
-- Attention to detail
 - Teamwork and collaboration
 - A strong desire to learn and adapt in fast-paced environments
 
