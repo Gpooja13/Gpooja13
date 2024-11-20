@@ -32,4 +32,4 @@ I’m a highly motivated and passionate **Full Stack Developer** currently pursu
 Feel free to connect or explore my work here on GitHub!
 
 ## 📫 Contact Me:
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/pooja-gupta-4a120b14b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
