@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I’m a highly motivated and passionate **Full Stack Developer** currently pursuing my **Master of Computer Applications (MCA)** from **Manipal University Jaipur**. I have a strong foundation in **software development**, **database management**, and **IT project management**, gained through academic pursuits and hands-on experience in the industry.
 
 ## 💻 Tech Stack:
-- **Languages:** C, C++, Python, Java, JavaScript, HTML5, CSS
-- **Frameworks/Libraries:** Next.js, React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Flask
+- **Languages:** C, C++, Python, Java, JavaScript, TypeScript, HTML5, CSS
+- **Frameworks/Libraries:** Next.js, React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, React Native, Flask
 - **Databases:** MongoDB, Firebase, MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Other Tools:** Visual Studio, Thunderclient, Postman, WordPress
