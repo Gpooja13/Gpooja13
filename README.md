@@ -24,7 +24,7 @@ I’m a highly motivated and passionate **Full Stack Developer** with expertise 
 
 ## 🛠️ Tech Stack  
 - **Languages:** C++, Python, Java, JavaScript
-- **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap, Flask 
+- **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Firebase, PostgreSQL, MySQL  
 - **Version Control:** Git, GitHub  
