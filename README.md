@@ -14,19 +14,27 @@ Here are some ideas to get you started:
 -->
 ## Hi there! I'm Pooja Gupta 👋
 
-I’m a highly motivated and passionate **Full Stack Developer** currently pursuing my **Master of Computer Applications (MCA)** from **Manipal University Jaipur**. I have a strong foundation in **software development**, **database management**, and **IT project management**, gained through academic pursuits and hands-on experience in the industry.
+I’m a highly motivated and passionate **Full Stack Developer** with expertise in the **MERN stack**. I have a strong foundation in **software development, database management, and IT project management**, built through both academic studies and hands-on industry experience.  
 
-## 💻 Tech Stack:
-- **Languages:** C, C++, Python, Java, JavaScript, TypeScript, HTML5, CSS
-- **Frameworks/Libraries:** Next.js, React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, React Native, Flask
-- **Databases:** MongoDB, Firebase, MySQL, PostgreSQL
-- **Version Control:** Git, GitHub
-- **Other Tools:** Visual Studio, Thunderclient, Postman, WordPress
-- **Design Tools:** Illustrator
+## 👩‍🎓 About Me  
+- 🎓 **Master of Computer Applications (MCA)** graduate  
+- 💻 Working as a **Front-End Developer**
+- 📜 **IBM Full Stack Development Certification** from Coursera  
+- 🚀 Passionate about building **dynamic and user-friendly web applications**
+
+## 🛠️ Tech Stack  
+- **Languages:** C++, Python, Java, JavaScript
+- **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap, Flask 
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase, PostgreSQL, MySQL  
+- **Version Control:** Git, GitHub  
+- **Other:** Thunderclient, Postman, Firebase, Web3.js, Blockchain
 
 ## ✨ What I Bring:
-- Problem-solving skills
+- Quick Learning and Problem-solving skills
 - Teamwork and collaboration
 - A strong desire to learn and adapt in fast-paced environments
+- Strong Organisational and Management skills
 
+- 🚀 Always excited to learn, build, and collaborate!
 Feel free to connect or explore my work here on GitHub!
