@@ -18,17 +18,17 @@ I’m a highly motivated and passionate **Full Stack Developer** with expertise 
 
 ## 👩‍🎓 About Me  
 - 🎓 **Master of Computer Applications (MCA)** graduate  
-- 💻 Working as a **Front-End Developer**
+- 💻 Working as a **Frontend-Focused Full Stack Developer**
 - 📜 **IBM Full Stack Development Certification** from Coursera  
 - 🚀 Passionate about building **dynamic and user-friendly web applications**
 
 ## 🛠️ Tech Stack  
-- **Languages:** C++, Python, Java, JavaScript
-- **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Firebase, PostgreSQL, MySQL  
+- **Languages:** C++, Java, Python, JavaScript
+- **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap, GSAP
+- **Backend:** Node.js, Express.js, Basic PHP 
+- **Database:**  MySQL, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub  
-- **Other:** Thunderclient, Postman, Firebase, Web3.js, Blockchain
+- **Other:** Thunderclient, Postman, Firebase, Web3.js, Blockchain, OpenAI API and Generative AI API
 
 ## ✨ What I Bring:
 - Quick Learning and Problem-solving skills
